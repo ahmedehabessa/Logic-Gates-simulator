@@ -1,0 +1,19 @@
+﻿  XORGate.cpp
+  XNORGate.cpp
+  Simulator.cpp
+d:\kolya\3rd comp 1st semester\softwareeng\project\simulator project\simulator project\simulator.cpp(13): warning C4018: '<': signed/unsigned mismatch
+d:\kolya\3rd comp 1st semester\softwareeng\project\simulator project\simulator project\simulator.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\kolya\3rd comp 1st semester\softwareeng\project\simulator project\simulator project\simulator.cpp(36): warning C4018: '<': signed/unsigned mismatch
+d:\kolya\3rd comp 1st semester\softwareeng\project\simulator project\simulator project\simulator.cpp(96): warning C4018: '<': signed/unsigned mismatch
+d:\kolya\3rd comp 1st semester\softwareeng\project\simulator project\simulator project\simulator.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  ORGate.cpp
+  NOTGate.cpp
+  NORGate.cpp
+  Node.cpp
+  NANDGate.cpp
+  main Simulator.cpp
+  Gate.cpp
+  ANDGate.cpp
+  Generating Code...
+  Simulator Project.vcxproj -> D:\kolya\3rd comp 1st semester\SoftWareEng\project\Simulator Project\Debug\Simulator Project.exe
+  Simulator Project.vcxproj -> D:\kolya\3rd comp 1st semester\SoftWareEng\project\Simulator Project\Debug\Simulator Project.pdb (Full PDB)
